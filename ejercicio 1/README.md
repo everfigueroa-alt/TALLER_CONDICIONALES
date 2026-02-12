@@ -1,4 +1,4 @@
-# taller_condicionales
+# Números positivos
 Programa en python para verificar si un numero es positivo
 
 # Diseño
